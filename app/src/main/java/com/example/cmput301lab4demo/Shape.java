@@ -1,6 +1,7 @@
 package com.example.cmput301lab4demo;
 
 public abstract class Shape {
+  String color = "blue";
   int x;
   int y;
 
