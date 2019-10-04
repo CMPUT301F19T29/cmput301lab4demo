@@ -2,6 +2,7 @@ package com.example.cmput301lab4demo;
 
 public abstract class Shape {
   int x;
+  String color = "purple";
 
   public Shape(int x, int y) {
     this.x = x;
